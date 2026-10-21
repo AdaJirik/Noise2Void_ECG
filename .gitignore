@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+###________ Custom files ________###
+
+# Database files
+mitdb/*
+!mitdb/.gitkeep
